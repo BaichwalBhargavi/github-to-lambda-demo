@@ -2,7 +2,7 @@
 This project showcases a fully automated CI/CD pipeline that deploys a Python-based AWS Lambda function directly from a GitHub repository using AWS CodeBuild and Amazon S3.
 
 🔧 Key Features:
-. GitHub Trigger: GitHub push events trigger the pipeline via webhook
+. GitHub Trigger- GitHub push events trigger the pipeline via webhook
 
 . Custom Build Logic: buildspec.yml handles zipping and uploading the Lambda deployment package
 
